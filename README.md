@@ -1,6 +1,6 @@
 # SoundCloudify has been renamed to UpNext
 
-https://chrome.google.com/webstore/detail/upnext-music-player/dgkfcdlmdppfhbfmooinbcejdaplobpk
+[New link to download UpNext](https://chrome.google.com/webstore/detail/upnext-music-player/dgkfcdlmdppfhbfmooinbcejdaplobpk)
 https://github.com/ptgamr/upnext
 
 ![UpNext](http://i.imgur.com/gSUHUBw.png)
